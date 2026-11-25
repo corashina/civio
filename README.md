@@ -13,4 +13,4 @@ WebGL turn based game heavily inspired by Sid Meier's Civilization series.
 - Animation system
 - A lot
 ## Preview
-![alt text](https://raw.githubusercontent.com/Tomasz-Zielinski/Civio/master/assets/preview.png)
+![alt text](assets/preview.png)
